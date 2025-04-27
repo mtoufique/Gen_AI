@@ -2,7 +2,7 @@ from langchain_huggingface.chat_models import ChatHuggingFace
 from langchain_huggingface import HuggingFaceEndpoint
 
 # Replace with your actual token (inside quotes)
-hf_token = "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"
+hf_token = "-----------"
 
 # Create the HuggingFaceEndpoint first to represent the model
 llm = HuggingFaceEndpoint(
